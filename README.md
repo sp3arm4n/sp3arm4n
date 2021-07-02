@@ -3,6 +3,7 @@
 
 ### 🔭 Working & Learning<br>
 1. [Aegis](https://dk-aegis.org/xe/) 동아리 홈페이지 리뉴얼 (⚙**Back-End**⚙)<br>
+📅 2021.04 ~ 2021.08<br>
 🛠 **Stack** 🛠<br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -17,6 +18,7 @@
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> 
 
 2. SW개발보안 경진대회 준비 (⚙**Front-End**⚙)<br>
+📅 2021.07 ~ 2021.08 예정<br>
 🛠 **Stack** 🛠<br>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
 <a href="https://developer.android.com/studio/" target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a> 
@@ -26,6 +28,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
 3. KUCIS 프로젝트 (⚙**Back-End**⚙)<br>
+📅 2021.06 ~ 2021.11<br>
 📌 악성메일을 선제적으로 차단하는 오픈소스 탐지 시스템 개발<br>
 🛠 **Stack** 🛠<br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
