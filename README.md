@@ -1,5 +1,5 @@
 ### 🙋‍♂️ Profile<br/>
-단국대학교 소프트웨어학과 2021년 8월 졸업예정
+2021년 8월 단국대학교 소프트웨어학과 졸업예정
 
 ### 🔭 Working & Learning<br>
 1. [Aegis](https://dk-aegis.org/xe/) 동아리 홈페이지 리뉴얼 (⚙**Back-End**⚙)<br>
