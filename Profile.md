@@ -41,27 +41,6 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <a href="https://mariadb.com/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-
-- - -
-### 📅 History<br>
-《2011.03.02 - 2014.02.06》 영남공업고등학교 유비쿼터스전자과<br>
-《2014.03.02 - 2021.08.18》 단국대학교 소프트웨어학과<br> <!--《2014.03 - 2014.07》 [알바] 위너스PC방<br>-->
-《2015.04.20 - 2017.04.19》 대한민국 공군 제19전투비행단 항공전자장비정비병<br> <!--《2017.07 - 2018.01, 2018.07 - 2018.11》 [알바] 이화어학원 학생조교<br>《2017.07 - 2018.05》 [알바] 파리바게트 주말마감<br>-->
-**--- 2018년도 대학교 복학 ---**<br>
-《2018.07.18 - 2018.07.20》 2018 대학생 금융보안캠프 수료<br>
-《2018.08.01 - 2018.12.31》 단국대학교 Aegis 정보보안동아리 부회장<br>
-《2019.01.01 - 2019.12.31》 단국대학교 Aegis 정보보안동아리 회장<br>
-《2019.07.22 - 2020.12.18》 단국대학교 CSOS 학부연구생<br>
-《2021.07.01 - 현재》 **KITRI BoB 10기 취약점분석 교육생**🎈
-- - -
-### 🌱 Career<br>
-《2019.08 - 2019.12》 Windows 환경의 packer 및 protector 연구 (단국대학교 SW중심대학사업단)<br>
-《2020.03 - 2020.12》 Windows 환경에서 DLL Injection 및 DLL Hijacking에 대한 방어 기법 연구 (단국대학교 SW중심대학사업단)<br>
-《2020.10 - 2020.12》 원전 안전등급제어기기(PLC) 사이버침해 예방 및 탐지 기술 개발 (한국에너지기술평가원)
-- - -
-### 📑 Paper<br>
-1. ["A Brief Survey on Process Injection Techniques in Microsoft Windows"](https://db69c54b-9b84-4d19-bcc3-1b44f4f5b0f9.filesusr.com/ugd/c29c53_b84b58163e66467bb71e37309d617288.pdf), 제11회 융합스마트미디어 시스템 워크샵, 2020.08
-2. ["MS Windows에서 인젝션 공격 및 방어 기법 연구"](http://www.i3.or.kr/html/paper/2020-2/(2)2020-2.pdf), 한국소프트웨어감정평가학회 논문지, 2020.12 **♦학진등재후보♦**<br>
 - - -
 ### 👨‍💻 Activity<br>
 ## 2018년<br>
