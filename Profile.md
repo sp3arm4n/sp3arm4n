@@ -60,11 +60,8 @@
 《2020.10 - 2020.12》 원전 안전등급제어기기(PLC) 사이버침해 예방 및 탐지 기술 개발 (한국에너지기술평가원)
 - - -
 ### 📑 Paper<br>
-1. ["A Brief Survey on Process Injection Techniques in Microsoft Windows"](https://db69c54b-9b84-4d19-bcc3-1b44f4f5b0f9.filesusr.com/ugd/c29c53_b84b58163e66467bb71e37309d617288.pdf),<br>
-조창연, 성호준, 조성제, 2020 제11회 융합스마트미디어 시스템 워크샵 (11th CSMS), 71-73<br>
-
-2. ["MS Windows에서 인젝션 공격 및 방어 기법 연구"](http://www.i3.or.kr/html/paper/2020-2/(2)2020-2.pdf),<br>
-성호준, 조창연, 이호응, 조성제, 한국소프트웨어감정평가학회 논문지, 16(2), 2020: 9-23.
+1. ["A Brief Survey on Process Injection Techniques in Microsoft Windows"](https://db69c54b-9b84-4d19-bcc3-1b44f4f5b0f9.filesusr.com/ugd/c29c53_b84b58163e66467bb71e37309d617288.pdf), 제11회 융합스마트미디어 시스템 워크샵, 2020.08
+2. ["MS Windows에서 인젝션 공격 및 방어 기법 연구"](http://www.i3.or.kr/html/paper/2020-2/(2)2020-2.pdf), 한국소프트웨어감정평가학회 논문지, 2020.12<br>
 - - -
 ### 👨‍💻 Activity<br>
 ## 2018년<br>
