@@ -26,8 +26,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=luckyboxx&count_private=true&show_icons=true&theme=radical"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyboxx&layout=compact"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=luckyboxx&count_private=true&show_icons=true&theme=radical"/></a>
 </p>
 <!--
 **luckyboxx/luckyboxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
