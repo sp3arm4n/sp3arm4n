@@ -61,7 +61,7 @@
 - - -
 ### 📑 Paper<br>
 1. ["A Brief Survey on Process Injection Techniques in Microsoft Windows"](https://db69c54b-9b84-4d19-bcc3-1b44f4f5b0f9.filesusr.com/ugd/c29c53_b84b58163e66467bb71e37309d617288.pdf), 제11회 융합스마트미디어 시스템 워크샵, 2020.08
-2. ["MS Windows에서 인젝션 공격 및 방어 기법 연구"](http://www.i3.or.kr/html/paper/2020-2/(2)2020-2.pdf), 한국소프트웨어감정평가학회 논문지, 2020.12<br>
+2. ["MS Windows에서 인젝션 공격 및 방어 기법 연구"](http://www.i3.or.kr/html/paper/2020-2/(2)2020-2.pdf), 한국소프트웨어감정평가학회 논문지, 2020.12 **♦학진등재후보♦**<br>
 - - -
 ### 👨‍💻 Activity<br>
 ## 2018년<br>
