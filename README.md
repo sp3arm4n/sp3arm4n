@@ -1,5 +1,8 @@
 ### 🙋‍♂️ Profile<br/>
-2021년 8월 단국대학교 소프트웨어학과 졸업예정
+2021년 8월 단국대학교 소프트웨어학과 졸업예정<br>
+💕SNS💕<br>
+<a href="https://www.instagram.com/jjjo___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
+<a href="https://www.facebook.com/iampooh33/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
 ### 🔭 Working & Learning<br>
 1. [Aegis](https://dk-aegis.org/xe/) 동아리 홈페이지 리뉴얼 (⚙**Back-End**⚙)<br>
