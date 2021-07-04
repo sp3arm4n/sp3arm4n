@@ -1,12 +1,10 @@
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ChangyeonJo&fontSize=70&animation=twinkling"/></a>
-</p>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+  ### 🛠 Tech Stack 🛠<br>
 
-<p align="center"> Techs that I've used at least once</p>
+  Techs that I've used at least once<br>
 
-<p align="center">
   <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
   <a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
   <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -27,27 +25,18 @@
   <a href="https://console.cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> 
   <a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a> 
-</p>
 
-<h3 align="center"> 💕ME💕 </h3>
-
-<p align="center">
+  ### 🎯 Wakatime Stats 🎯
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyboxx&layout=compact&theme=dark"/>
+  </a>
+  
+  ### 💕 Me 💕<br>
   <a href="https://velog.io/@luckyboxx" target="_blank"><img src="https://img.shields.io/badge/Velog-3D95CE?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <a href="https://www.instagram.com/jjjo___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
-  <a href="https://www.facebook.com/iampooh33/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangyeonJo&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>                             
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyboxx&layout=compact"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=luckyboxx&count_private=true&show_icons=true&theme=radical"/></a>
-</p>
+  <a href="https://www.facebook.com/iampooh33/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a><br><br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangyeonJo&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a><br>
+</div>
 
 ### 📅 History<br>
 《2011.03.02 - 2014.02.06》 영남공업고등학교 유비쿼터스전자과<br>
@@ -68,7 +57,11 @@
 ### 📑 Paper<br>
 1. ["A Brief Survey on Process Injection Techniques in Microsoft Windows"](https://db69c54b-9b84-4d19-bcc3-1b44f4f5b0f9.filesusr.com/ugd/c29c53_b84b58163e66467bb71e37309d617288.pdf), 제11회 융합스마트미디어 시스템 워크샵, 2020.08
 2. ["MS Windows에서 인젝션 공격 및 방어 기법 연구"](http://www.i3.or.kr/html/paper/2020-2/(2)2020-2.pdf), 한국소프트웨어감정평가학회 논문지, 2020.12 **♦학진등재후보♦**<br>
-
+- - -
+### 📌 GitHub&Wakatime Stats<br>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luckyboxx&count_private=true&show_icons=true&theme=dark"/>
+</a><br>
 <!--
 **luckyboxx/luckyboxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
