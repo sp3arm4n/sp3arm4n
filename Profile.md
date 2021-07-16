@@ -17,17 +17,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> 
 
-2. SW개발보안 경진대회 준비 (⚙**Front-End**⚙)<br>
-📅 2021.07 ~ 2021.08 예정<br>
-🛠 **Stack** 🛠<br>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
-<a href="https://developer.android.com/studio/" target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> 
-<a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-
-3. KUCIS 프로젝트 (⚙**Back-End**⚙)<br>
+2. KUCIS 프로젝트 (⚙**Back-End**⚙)<br>
 📅 2021.06 ~ 2021.11<br>
 📌 악성메일을 선제적으로 차단하는 오픈소스 탐지 시스템 개발<br>
 🛠 **Stack** 🛠<br>
