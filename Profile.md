@@ -2,23 +2,8 @@
 2021년 8월 단국대학교 소프트웨어학과 졸업예정<br>
 
 ### 🔭 Working & Learning<br>
-1. [Aegis](https://dk-aegis.org/xe/) 동아리 홈페이지 리뉴얼 (⚙**Back-End**⚙)<br>
-📅 2021.04 ~ 2021.08<br>
-🛠 **Stack** 🛠<br>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-<a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/></a><br>
-<a href="https://nodejs.org/ko/" target="_blank"><img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=NodeJS&logoColor=white"/></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>
-<a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> 
-
-2. KUCIS 프로젝트 (⚙**Back-End**⚙)<br>
-📅 2021.06 ~ 2021.11<br>
+- KUCIS 프로젝트 (⚙**Back-End**⚙)<br>
+📅 2021.05.25 ~ 현재 <br>
 📌 악성메일을 선제적으로 차단하는 오픈소스 탐지 시스템 개발<br>
 🛠 **Stack** 🛠<br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -31,6 +16,22 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <a href="https://mariadb.com/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+- - -
+### 💻 End-Project<br>
+- [Aegis](https://dk-aegis.org/xe/) 동아리 홈페이지 리뉴얼 (⚙**Back-End**⚙)<br>
+📅 2021.04.29 ~ 2021.07.16<br>
+🛠 **Stack** 🛠<br>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/></a><br>
+<a href="https://nodejs.org/ko/" target="_blank"><img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=NodeJS&logoColor=white"/></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>
+<a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> 
 - - -
 ### 👨‍💻 Activity<br>
 ## 2018년<br>
