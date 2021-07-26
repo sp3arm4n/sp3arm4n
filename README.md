@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ChangyeonJo&fontSize=70&animation=twinkling"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=￦1DN0￦&fontSize=70&animation=twinkling"/></a>
 
   ### 🛠 Tech Stack 🛠<br>
 
@@ -34,9 +34,19 @@
   </a>
   
   ### 💕 Me 💕<br>
-  <a href="https://velog.io/@luckyboxx/about" target="_blank"><img src="https://img.shields.io/badge/Velog-3D95CE?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <a href="https://www.instagram.com/jjjo___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
-  <a href="https://www.facebook.com/iampooh33/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a><br><br>
+  <a href="https://www.facebook.com/iampooh33/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="mailto:jo9214@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white"/></a>
+  <br>
+<table>
+  <tbody>
+     <tr>
+      <th>Blog</th>
+      <td>https://luckyboxx.tistory.com/</td>
+    </tr>
+  </tbody>
+</table>
+
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangyeonJo&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a><br>
 </div>
 
