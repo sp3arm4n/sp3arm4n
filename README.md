@@ -36,7 +36,7 @@
   ### 💕 Me 💕<br>
   <a href="https://www.instagram.com/jjjo___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
   <a href="https://www.facebook.com/iampooh33/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-  <a href="mailto:jo9214@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white"/></a>
+  <a href="mailto:jo9214@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <br>
 <table>
   <tbody>
