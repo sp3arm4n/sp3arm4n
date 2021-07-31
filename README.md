@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=￦1DN0￦&fontSize=70&animation=twinkling"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=1uck7b0xx&fontSize=70&animation=twinkling"/></a>
 
   ### 🛠 Tech Stack 🛠<br>
 
