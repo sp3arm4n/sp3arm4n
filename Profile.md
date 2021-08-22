@@ -1,5 +1,4 @@
 ### 🙋‍♂️ Profile<br>
-2021년 8월 단국대학교 소프트웨어학과 졸업예정<br>
 
 ### 🔭 Working & Learning<br>
 - KUCIS 프로젝트 (⚙**Back-End**⚙)<br>
@@ -58,11 +57,13 @@
 ## 2020년<br>
 《1월 18 ~ 2월 1일》 리눅스 커널 강의 (CSOSLAB)<br>
 《2월 3 ~ 5일》 2020년 한국정보과학회 컴퓨터 시스템 소사이어티 동계학술대회 참여 (용평리조트)<br>
-《2월 8 ~ 9일》 2020 Codegate CTF 예선 참여<br>
+《2월 8 ~ 9일》 2020 Codegate CTF 예선 참여 (Team Aegis ???위)<br>
 《8월 17 ~ 19일》 한국정보과학회 정보보안 및 고신뢰컴퓨팅 하계워크샵(WDSC 2020) 참여 (제주도)<br>
 《8월 20 ~ 22일》 융합스마트미디어 시스템 워크샵(11th CSMS) 참여 (제주도)<br>
-《12월 25일》 2020 Christmas CTF 참여<br>
+《12월 25일》 2020 Christmas CTF 참여 (Team Aegis 106위)<br>
 ## 2021년<br>
 《4월 29일 ~ 7월 16일》 Aegis 동아리 홈페이지 개발(리뉴얼)<br>
-《5월 25일 ~ 현재》 KUCIS 프로젝트 참여<br>
+《5월 25일 ~ 현재》 KUCIS 프로젝트 참여(⚙**Back-End**⚙)<br>
 《7월 1일 ~ 현재》 KITRI BoB 10기 참여(취약점분석트랙)<br>
+《8월 16일 ~ 8월 17일》 Hacker's Playground 2021 참여 (Team 0verf1ow 86위)<br>
+《8월 17일》 제5회 삼성보안기술포럼(5th SSTF) 참여<br>
