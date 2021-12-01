@@ -67,7 +67,7 @@
 ### 🌱 Career<br>
 《2019.08 - 2019.12》 Windows 환경의 packer 및 protector 연구 (단국대학교 SW중심대학사업단)<br>
 《2020.03 - 2020.12》 Windows 환경에서 DLL Injection 및 DLL Hijacking에 대한 방어 기법 연구 (단국대학교 SW중심대학사업단)<br>
-《2020.10 - 2020.12》 원전 안전등급제어기기(PLC) 사이버침해 예방 및 탐지 기술 개발 (한국에너지기술평가원)
+《2020.10 - 2020.12》 원전 안전등급제어기기(PLC) 사이버침해 예방 및 탐지 기술 개발 (한국에너지기술평가원)<br>
 《2021.09 - 2021.12》 Microsoft Windows 11 Logical Privilege Escalation Research (한국정보기술연구원 BoB)
 - - -
 ### 📑 Paper<br>
