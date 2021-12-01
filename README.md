@@ -68,6 +68,7 @@
 《2019.08 - 2019.12》 Windows 환경의 packer 및 protector 연구 (단국대학교 SW중심대학사업단)<br>
 《2020.03 - 2020.12》 Windows 환경에서 DLL Injection 및 DLL Hijacking에 대한 방어 기법 연구 (단국대학교 SW중심대학사업단)<br>
 《2020.10 - 2020.12》 원전 안전등급제어기기(PLC) 사이버침해 예방 및 탐지 기술 개발 (한국에너지기술평가원)
+《2021.09 - 2021.12》 Microsoft Windows 11 Logical Privilege Escalation Research (한국정보기술연구원 BoB)
 - - -
 ### 📑 Paper<br>
 1. ["A Brief Survey on Process Injection Techniques in Microsoft Windows"](https://db69c54b-9b84-4d19-bcc3-1b44f4f5b0f9.filesusr.com/ugd/c29c53_b84b58163e66467bb71e37309d617288.pdf), 제11회 융합스마트미디어 시스템 워크샵, 2020.08
