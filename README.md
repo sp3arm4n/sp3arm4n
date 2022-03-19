@@ -60,9 +60,9 @@
 《2018.08.01 - 2018.12.31》 단국대학교 [Aegis](http://dk-aegis.org/) 정보보안동아리 부회장<br>
 《2019.01.01 - 2019.12.31》 단국대학교 [Aegis](http://dk-aegis.org/) 정보보안동아리 회장<br>
 《2019.03.02 - 2020.02.29》 SecurityPlus Union Academy 7기 회원<br>
-《2019.07.22 - 2020.12.18》 단국대학교 [CSOSLAB](http://securesw.dankook.ac.kr/index.html) 학부연구생<br>
+《2019.07.22 - 2020.12.18》 단국대학교 운영체제 및 보안 연구실([CSOSLAB](http://securesw.dankook.ac.kr/index.html)) 학부연구생<br>
 《2021.04.01 - 2021.06.31》 주식회사 페스타 웹 개발 아르바이트<br>
-《2021.07.01 - 현재》 **KITRI BoB 10기 취약점분석 교육생**🎈
+《2021.07.01 - 2022.03.31》 KITRI BoB 10기 취약점분석 교육생
 - - -
 ### 🌱 Career<br>
 《2019.08 - 2019.12》 Windows 환경의 packer 및 protector 연구 (단국대학교 SW중심대학사업단)<br>
