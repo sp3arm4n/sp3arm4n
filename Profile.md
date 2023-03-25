@@ -69,10 +69,10 @@
 《7월 1일 ~ 》 KITRI BoB 10기 참여(취약점분석트랙)<br>
 《8월 16일 ~ 8월 17일》 Hacker's Playground 2021 참여 (Team 0verf1ow 86위)<br>
 《8월 17일》 제5회 삼성보안기술포럼(5th SSTF) 참여<br>
-《12월 1일》 HP 노트북 내 관리 소프트웨어에 대한 권한 상승 취약점 제보 (Arbitrary File Delete Elevation of Privilege)
+《12월 1일》 HP 노트북 내 관리 소프트웨어에 대한 권한 상승 취약점 제보 (Arbitrary File Delete Elevation of Privilege)<br>
 ## 2022년<br>
-《 ~ 3월 31일》 KITRI BoB 10기 수료 (취약점분석트랙)
-《6월 25일 ~ 6월 26일》 BoB 총동문회 워크샵 참여 **[STAFF]**
-《8월 22일 ~ 8월 23일》 Hacker's Playground 2022 참여 (Team luckyboxx 166위/1075팀)
-《8월 23일》 제6회 삼성보안기술포럼(6th SSTF) 참여
+《 ~ 3월 31일》 KITRI BoB 10기 수료 (취약점분석트랙)<br>
+《6월 25일 ~ 6월 26일》 BoB 총동문회 워크샵 참여 **[STAFF]**<br>
+《8월 22일 ~ 8월 23일》 Hacker's Playground 2022 참여 (Team luckyboxx 166위/1075팀)<br>
+《8월 23일》 제6회 삼성보안기술포럼(6th SSTF) 참여<br>
 《9월 17일》 2022 BoB 정보보안 (BISC) 참여 **[STAFF]**
