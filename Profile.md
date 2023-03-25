@@ -1,20 +1,7 @@
 ### 🙋‍♂️ Profile<br>
 
 ### 🔭 Working & Learning<br>
-- KUCIS 프로젝트 (⚙**Back-End**⚙)<br>
-📅 2021.05.25 ~ 현재 <br>
-📌 악성메일을 선제적으로 차단하는 오픈소스 탐지 시스템 개발<br>
-🛠 **Stack** 🛠<br>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-<a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-<a href="https://mariadb.com/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+
 - - -
 ### 💻 End-Project<br>
 - [Aegis](https://dk-aegis.org/xe/) 동아리 홈페이지 리뉴얼 (⚙**Back-End**⚙)<br>
@@ -31,6 +18,21 @@
 <a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> 
+
+- KUCIS 프로젝트 (⚙**Back-End**⚙)<br>
+📅 2021.05.25 ~ 2021.10.11 <br>
+📌 악성메일을 선제적으로 차단하는 오픈소스 탐지 시스템 개발<br>
+🛠 **Stack** 🛠<br>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+<a href="https://mariadb.com/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 - - -
 ### 👨‍💻 Activity<br>
 ## 2018년<br>
@@ -63,7 +65,14 @@
 《12월 25일》 2020 Christmas CTF 참여 (Team Aegis 106위)<br>
 ## 2021년<br>
 《4월 29일 ~ 7월 16일》 Aegis 동아리 홈페이지 개발(리뉴얼)<br>
-《5월 25일 ~ 현재》 KUCIS 프로젝트 참여(⚙**Back-End**⚙)<br>
-《7월 1일 ~ 현재》 KITRI BoB 10기 참여(취약점분석트랙)<br>
+《5월 25일 ~ 10월 11일》 KUCIS 프로젝트 참여(⚙**Back-End**⚙)<br>
+《7월 1일 ~ 》 KITRI BoB 10기 참여(취약점분석트랙)<br>
 《8월 16일 ~ 8월 17일》 Hacker's Playground 2021 참여 (Team 0verf1ow 86위)<br>
 《8월 17일》 제5회 삼성보안기술포럼(5th SSTF) 참여<br>
+《12월 1일》 HP 노트북 내 관리 소프트웨어에 대한 권한 상승 취약점 제보 (Arbitrary File Delete Elevation of Privilege)
+## 2022년<br>
+《 ~ 3월 31일》 KITRI BoB 10기 수료 (취약점분석트랙)
+《6월 25일 ~ 6월 26일》 BoB 총동문회 워크샵 참여 **[STAFF]**
+《8월 22일 ~ 8월 23일》 Hacker's Playground 2022 참여 (Team luckyboxx 166위/1075팀)
+《8월 23일》 제6회 삼성보안기술포럼(6th SSTF) 참여
+《9월 17일》 2022 BoB 정보보안 (BISC) 참여 **[STAFF]**
