@@ -29,6 +29,12 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> 
   <a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a> 
 
+### 📌 GitHub Stats<br>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sp3arm4n&hide_border=boolean&count_private=true&show_icons=true&theme=dark"/>
+</a><br><br>
+
+<!--
   ### 🎯 Wakatime Stats 🎯
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp3arm4n&hide_border=boolean&layout=compact&theme=dark&langs_count=10&hide=jupyter%20notebook, Smali, Makefile"/>
@@ -47,7 +53,7 @@
     </tr>
   </tbody>
 </table>
-
+-->
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangyeonJo&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a><br>
 </div>
 
@@ -78,12 +84,13 @@
 1. ["A Brief Survey on Process Injection Techniques in Microsoft Windows"](https://db69c54b-9b84-4d19-bcc3-1b44f4f5b0f9.filesusr.com/ugd/c29c53_b84b58163e66467bb71e37309d617288.pdf), 제11회 융합스마트미디어 시스템 워크샵, 2020.08
 2. ["MS Windows에서 인젝션 공격 및 방어 기법 연구"](http://www.i3.or.kr/html/paper/2020-2/(2)2020-2.pdf), 한국소프트웨어감정평가학회 논문지, 2020.12 [**[KCI후보]**](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002660799)
 3. 윈도우 커널 후킹을 통한 보안 위반 객체 탐지 시스템, 2021 WINTER 한국정보보호학회 동계학술대회 (CISC-W), 2021.11<br>
+<!--
 - - -
 ### 📌 GitHub Stats<br>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sp3arm4n&hide_border=boolean&count_private=true&show_icons=true&theme=dark"/>
 </a><br>
-<!--
+
 **luckyboxx/luckyboxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
